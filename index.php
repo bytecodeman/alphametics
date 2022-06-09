@@ -150,7 +150,7 @@ endif;
                     </div>
                     <p class="d-print-none"><b>Warning!</b> With many variables, there are <b>VERY</b> many possible solutions that must be examined. It may take a long time to find solutions. <b>Patience Please!!!</b> (BIG + CAT = LION, a 9 variable expression, will take 8 minutes to analyze. A 10 variable expression will take over 80 minutes!!!)</p>
                     <p class="d-print-none"><a href="#" data-toggle="modal" data-target="#myModal">About <?php echo $title; ?></a></p>
-                    <p class="d-print-none"><a href="https://bytecodeman.com/specialapps/alphametics/" target="_blank" rel="noopener noreferrer">Source Code</a></p>
+                    <p class="d-print-none"><a href="https://github.com/bytecodeman/alphametics" target="_blank" rel="noopener noreferrer">Source Code</a></p>
                 </div>
                 <div class="col-lg-4 d-print-none">
                     <!-- <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> -->
