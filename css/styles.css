@@ -1,0 +1,28 @@
+﻿body {
+    margin-bottom: 70px;
+	overflow-y: scroll;
+}
+#resultsPanel {
+    border: inset black thin;
+    white-space:pre-line;
+    padding: 1rem;
+}
+.jumbotron {
+	padding: 2rem;
+}
+.adsbygoogle {
+    display: block;
+}
+#copyToClipboard {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+}
+#copyToClipboard img {
+    width: 100%; 
+    cursor: pointer;
+}
+div.clearfix {
+    margin-bottom: 20px;
+}
